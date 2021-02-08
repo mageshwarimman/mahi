@@ -10,6 +10,10 @@ public class txtpass {
 	{
 		
 	}
+	public void did()
+	{
+		
+	}
 	public static void main(String[] args) {
 }
 }
