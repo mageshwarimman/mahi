@@ -10,9 +10,14 @@ public class txtpass {
 	{
 		
 	}
-	public void mul()
+	public void did()
+
 	{
 		
+	}
+
+	public void mul() {
+
 	}
 	public static void main(String[] args) {
 }
