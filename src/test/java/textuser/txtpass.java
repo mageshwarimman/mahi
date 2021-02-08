@@ -14,6 +14,10 @@ public class txtpass {
 	{
 		
 	}
+	public void tray()
+	{
+		
+	}
 	public static void main(String[] args) {
 }
 }
