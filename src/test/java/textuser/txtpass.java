@@ -11,7 +11,6 @@ public class txtpass {
 		
 	}
 	public void did()
-
 	{
 		
 	}
