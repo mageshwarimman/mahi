@@ -15,7 +15,13 @@ public class txtpass {
 		
 	}
 
+
 	public void mul() {
+
+	}
+	public void tray()
+	{
+		
 
 	}
 	public static void main(String[] args) {
