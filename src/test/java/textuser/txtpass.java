@@ -6,6 +6,10 @@ public class txtpass {
 	{
 		System.out.println("add");
 	}
+	public void sub()
+	{
+		
+	}
 	public static void main(String[] args) {
 }
 }
